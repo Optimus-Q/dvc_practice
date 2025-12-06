@@ -1,0 +1,9 @@
+pandas
+numpy
+notebook
+matplotlib
+seaborn
+scikit-learn
+PyYAML
+optuna
+lightgbm
