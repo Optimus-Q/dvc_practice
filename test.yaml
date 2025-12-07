@@ -1,0 +1,7 @@
+test data: "./data/test/GNSS_raw_test.csv"
+features selected: ['Satelite_Code', 'Code_L1', 'Phase_L1', 'Doppler_L1', 'Cnr_L1', 'Cnr_L2']
+data mapper: "./data/satelite mapper/satelitecode_mapper.json"
+model logs: "./train/train logs/train.log"
+model loc: "./train/model weights/"
+save result: "./results/"
+kaggle submission: "./data/submission/sample_submission.csv"

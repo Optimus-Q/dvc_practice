@@ -1,0 +1,8 @@
+train data: "./data/train/GNSS_raw_train.csv"
+features selected: ['Satelite_Code', 'Code_L1', 'Phase_L1', 'Doppler_L1', 'Cnr_L1', 'Cnr_L2']
+data mapper: "./data/satelite mapper/satelitecode_mapper.json"
+train data size: 0.8
+train random state: 42
+train shuffle: True
+model name: "rf"
+epochs: 50

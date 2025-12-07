@@ -6,4 +6,10 @@ seaborn
 scikit-learn
 PyYAML
 optuna
+<<<<<<< HEAD
 lightgbm
+=======
+lightgbm
+joblib
+pytest
+>>>>>>> localdev
