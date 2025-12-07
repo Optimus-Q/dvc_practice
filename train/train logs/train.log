@@ -1,0 +1,4 @@
+2025-12-07 01:46:09,070 - INFO - Optuna Training Summary | Start: 2025-12-07 01:41:26 | End: 2025-12-07 01:42:56 | OPTUNA ACCURACY: 0.9384 | TEST ACCURACY: 0.9409 | Model: rf_train_model_2025-12-07 01-42-56
+2025-12-07 02:34:21,705 - INFO - Optuna Training Summary | Start: 2025-12-07 02:31:19 | End: 2025-12-07 02:32:32 | OPTUNA ACCURACY: 0.9405 | TEST ACCURACY: 0.9418 | Model: rf_train_model_2025-12-07 02-32-32
+2025-12-07 02:39:44,562 - INFO - Optuna Training Summary | Start: 2025-12-07 02:39:32 | End: 2025-12-07 02:39:42 | OPTUNA ACCURACY: 0.9397 | TEST ACCURACY: 0.9430 | Model: lgbm_train_model_2025-12-07 02-39-42
+2025-12-07 03:23:21,373 - INFO - Optuna Training Summary | Start: 2025-12-07 03:16:04 | End: 2025-12-07 03:16:36 | OPTUNA ACCURACY: 0.9501 | TEST ACCURACY: 0.9519 | Model: rf_train_model_2025-12-07 03-16-36
