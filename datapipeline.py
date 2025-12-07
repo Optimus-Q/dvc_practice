@@ -1,8 +1,8 @@
 import json
 import pandas as pd
 
-def DataMapper():
-    with open('./data/satelite mapper/satelitecode_mapper.json', 'r') as f:
+def DataMapper(maploc):
+    with open(maploc, 'r') as f:
         map_data = json.load(f)
     return map_data
 
