@@ -2,4 +2,3 @@ venv/
 *.csv
 *.json
 __pycache__/
-/data
