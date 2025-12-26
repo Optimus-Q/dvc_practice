@@ -9,3 +9,4 @@ optuna
 lightgbm
 joblib
 pytest
+dvc[s3]
