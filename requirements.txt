@@ -10,3 +10,4 @@ lightgbm
 joblib
 pytest
 dvc[s3]
+boto3

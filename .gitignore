@@ -1,4 +1,5 @@
 venv/
-data/
+*.csv
+*.json
 __pycache__/
 /data

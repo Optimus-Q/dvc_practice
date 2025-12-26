@@ -1,0 +1,4 @@
+s3bucketname: "app-gnssdata"
+s3trainkey: "data/train/GNSS_raw_train.csv"
+s3testkey: "data/test/GNSS_raw_test.csv"
+s3datamapper: "data/datamapper/satelitecode_mapper.json"
