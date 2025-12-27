@@ -33,3 +33,5 @@ if __name__ == "__main__":
     s3_client = boto3.client("s3")
     loadparams = loadconfig(args.params)
     main(client=s3_client, params=loadparams)
+
+    

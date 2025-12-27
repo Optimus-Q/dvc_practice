@@ -11,3 +11,4 @@ joblib
 pytest
 dvc[s3]
 boto3
+dvclive
